@@ -1,0 +1,31 @@
+#game-container {
+    text-align: center;
+    margin: 50px auto;
+}
+
+h1 {
+    color: #3498db;
+}
+
+input {
+    padding: 5px;
+    margin: 10px;
+}
+
+button {
+    padding: 10px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#result-message {
+    font-weight: bold;
+    color: #e74c3c;
+}
+
+#correct-answer {
+    display: none;
+    color: #27ae60;
+}
